@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋Hi there, I'm Leo
 
-<!--
-**MrKingLe0/MrKingLe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A Minecraft Server Developer & Plugin Creator
 
-Here are some ideas to get you started:
+I work on Minecraft server development with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Skript development
+- 🔧 Custom plugin development
+- 🧩 Server configuration & optimization
+- 📦 Working with popular plugins and integrations
+- ☕ Java plugin development for Paper/Spigot servers
+
+I enjoy creating custom gameplay features, server systems, and improving player experiences through unique mechanics.
+
+## 🛠️ Technologies & Tools
+- Java
+- Skript
+- Paper / Spigot
+- YAML
+- Git & GitHub
+
+## 🎯 Current Focus
+- Developing custom Minecraft plugins
+- Expanding Java development skills
+- Building advanced server systems
+
+## 📫 Contact
+- Discord: [Join my Discord Server](https://discord.gg/6gCFHFHsbD)
+- GitHub: github.com/MrKingLe0
+- Email: mrkingleo851@gmail.com
+> “Turning new ideas into a brand new Minecraft experiences.”
