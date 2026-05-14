@@ -26,6 +26,6 @@ I enjoy creating custom gameplay features, server systems, and improving player 
 
 ## 📫 Contact
 - Discord: [Join my Discord Server](https://discord.gg/6gCFHFHsbD)
-- BuiltByBit: [Explore my BuiltbyBit Store!](https://github.com/MrKingLe0](https://builtbybit.com/search/9935259/)
+- BuiltByBit: [Explore my BuiltbyBit Store!](https://builtbybit.com/search/9935259/)
 - Email: mrkingleo851@gmail.com
 > “Turning new ideas into a brand new Minecraft experiences.”
