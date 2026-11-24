@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:7c3aed&height=210&section=header&text=KING%20LEO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Minecraft%20Plugin%20Developer%20%7C%20Server%20Architect&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:7c3aed&height=210&section=header&text=KING%20LEO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Minecraft%20Plugin%20Developer%20%7C%20Server%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
