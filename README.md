@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  I build custom <b>Java plugins</b>, <b>Skript systems</b>, and <b>server infrastructure</b> for modern Minecraft networks.<br />
+  I build custom <b>Java plugins</b>, <b>Custom skripts</b>, and <b>server setups</b> for modern Minecraft server networks.<br />
   Focused on clean architecture, zero-lag performance, and mechanics that players actually enjoy to play.
 </p>
 
